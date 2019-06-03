@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+d2/models/*
+d2/data/*
+d2/train/saved_models/*
